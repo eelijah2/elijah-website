@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\src"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\vite.config.js",
   "PreviewInSolutionExplorer": false
 }
