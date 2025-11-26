@@ -1,0 +1,148 @@
+﻿div.portfolio {
+    font-family: 'Segoe UI';
+    margin: auto;
+    text-align: left;
+    border-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border-style: outset;
+    border-width: 15px;
+    background-color: white;
+    box-shadow: 10px 10px white, 20px 20px black;
+    outline: black solid 3px;
+    color: black;
+    width: 60%;
+    height: 700px;
+    overflow: scroll;
+}
+
+p.portfolio {
+    color:red;
+}
+
+html {
+    height: 100%;
+    background:#47999a ;
+}
+
+p.navbar {
+    margin:auto;
+    width:60%;
+}
+
+#mainHeader {
+    font-family: 'Segoe UI';
+    text-align: center;
+    padding: 15px;
+    margin: auto;
+    width: 50%;
+    color: #fefdfa;
+    font-size: 40px;
+    text-shadow: 2px 2px black, 4px 4px #47999a;
+    letter-spacing: 3px;
+}
+
+div.mainHeader {
+    background: black;
+}
+
+body{
+    margin: 0px;
+}
+
+h2.info, p.info {
+    font-family: 'Segoe UI';
+    margin:10px;
+}
+
+h2.info {
+    font-size: 30px;
+    margin-left: 5px;
+    color:black;
+    padding: 5px;
+}
+
+p.info {
+    font-size: 21px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    background: #47999a;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.8;
+    text-align:justify;
+}
+
+#video {
+    text-align:center;
+    margin:auto;
+    display:block;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+a.nav {
+    display:block;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    font-family: 'Segoe UI';
+    text-align: center;
+    padding: 15px;
+    color: #fefdfa;
+    font-size: 25px;
+    text-shadow: 1px 1px black, 3px 3px #47999a;
+    letter-spacing: 3px;
+}
+
+a:hover.nav {
+    background-color: #47999a;
+}
+
+/*
+button.collapseHeader, button.expandHeader {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    border-width: 0px;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+
+}
+s
+p.collapseBody, p.expandBody {
+    padding:10px;
+    background: lightgreen;
+    margin:25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    visibility:hidden;
+    font-size:22px;
+    height:40%;
+    width:90%;
+    overflow:scroll;
+}
+
+p.expandBody {
+    visibility: visible;
+}
+*/
